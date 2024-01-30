@@ -1,0 +1,17 @@
+{
+  "main.css": "/static/css/main.7c4b2ea8.chunk.css",
+  "main.js": "/static/js/main.bd247a1c.chunk.js",
+  "main.js.map": "/static/js/main.bd247a1c.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.1b922744.js",
+  "runtime~main.js.map": "/static/js/runtime~main.1b922744.js.map",
+  "vendors~main.js": "/static/js/vendors~main.ded87515.chunk.js",
+  "vendors~main.js.map": "/static/js/vendors~main.ded87515.chunk.js.map",
+  "./service-worker.js": "/./service-worker.js",
+  "Musisync-KVLZ.ttf": "/Musisync-KVLZ.ttf",
+  "Musisync-qYy6.ttf": "/Musisync-qYy6.ttf",
+  "favicon.ico": "/favicon.ico",
+  "index.html": "/index.html",
+  "manifest.json": "/manifest.json",
+  "precache-manifest.eb5c5fb32cd64f58bbdce42a17e8df56.js": "/precache-manifest.eb5c5fb32cd64f58bbdce42a17e8df56.js",
+  "static/media/main.css": "/static/media/Musisync-KVLZ.3031568e.ttf"
+}
